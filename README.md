@@ -9,6 +9,8 @@ El proyecto utiliza un Arduino junto con Tinkercad para crear un sistema de rieg
 ## Características
 
 - **Control de Humedad:** El sistema utiliza sensores de humedad del suelo para medir la humedad actual y determinar la necesidad de riego.
+- **Control de temperatura>** El sistema utiliza sensores de temperatura para medir la temperatura actual y activar ventiladores ante la necesidad.
+-  **Control de luz>** El sistema utiliza sensores de fotorresistencia para medir la luz entrante y aumentar la luminaria propia del jardin .
 
 - **Actuadores:** Se implementan actuadores (en este caso motores) para administrar el riego según los niveles de humedad medidos.
 
